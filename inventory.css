@@ -79,3 +79,13 @@ div:hover{
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 /* end individual card*/
+
+/* car name*/
+div p{
+  font-size: 1rem;
+  font-weight: 700;
+  color: white;
+  padding: 14px 16px 10px;
+
+}
+/* end of car name*/
